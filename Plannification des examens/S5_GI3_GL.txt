@@ -1,0 +1,7 @@
+Systeme_embarque_et_temps_reel.
+Virtualisation_et_cloud_computing.
+Developpement_des_applications_mobiles.
+Enterprise_Resource_Planning_ERP.
+Gestion_financiere.
+Ingnierie_logicielle,_Qualite,_Test_et_Integration.
+Gestion_des_Ressources_humaines.

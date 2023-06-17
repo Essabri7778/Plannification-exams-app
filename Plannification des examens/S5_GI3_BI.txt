@@ -1,0 +1,7 @@
+Business_Intelligence_et_Veille_strategique
+lingenierie_de_linformation_et_des_connaissances
+Gestion_financiere
+Enterprise_Resource_Planning,_ERP
+Data_Mining
+Analyse_et_conception_des_systemes_decisionnels
+Gestion_des_Ressources_humaines.

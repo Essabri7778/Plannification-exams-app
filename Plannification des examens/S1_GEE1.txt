@@ -1,0 +1,7 @@
+Programmation_et_outils_informatiques:(Excel)/(Matlab)
+Mecanique_des_fluides/Hydraulique
+Chimie_organique/Cinetique_et_catalyse
+Microbiologie/Biochimie
+communication_I
+Biologie_pour_l_ingenieur:(Biologie_Animale)/(Biologie_Vegetale)
+Anglais_I

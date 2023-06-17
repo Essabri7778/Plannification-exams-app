@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641132693 source:c:\users\thinkpad\documents\exercice tp me\planification des examen a l'ensah\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PARTIE DS.h"
+
+1641144137 c:\users\thinkpad\documents\exercice tp me\planification des examen a l'ensah\partie ds.h
+

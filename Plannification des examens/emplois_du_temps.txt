@@ -1,0 +1,9 @@
+15/2/2021	Mecanique_des_fluides_et_des_solides
+16/2/2021	Mathematiques_appliquees
+17/2/2021	Dessin_de_batiment_architecture_et_initiation_technique
+18/2/2021	Urbanisme_et_Topographie
+19/2/2021	Techniques_de_communication_et_dexpression_1
+20/2/2021	Statique_Appliquee_I
+22/2/2021	Theorie_des_poutres
+23/2/2021	Informatique
+24/2/2021	Materiaux_de_construction
